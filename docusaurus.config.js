@@ -97,19 +97,23 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Connect',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Blogs',
+                href: 'https://1shubham7.hashnode.dev/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Linked In',
+                href: 'https://www.linkedin.com/in/shubham-singh-5a002b20b/',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/1shubham7',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/1shubham7',
               },
             ],
           },
