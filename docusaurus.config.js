@@ -74,9 +74,9 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Docusaurus Tutorial',
+            label: 'Understanding ORAS',
           },
-          {to: '/blog', label: 'The Understanding ORAS Blogs', position: 'left'},
+          {to: '/blog', label: 'Blogs', position: 'left'},
           {
             href: 'https://github.com/1shubham7',
             label: 'GitHub Profile',
@@ -126,7 +126,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/1shubham7',
               },
             ],
           },
