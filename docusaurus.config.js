@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'The ORAS Docs - My notes',
-  tagline: 'These Docs are not from official ORAS project, these are written by me in simpler language',
+  title: 'Guide for Contributing to ORAS',
+  tagline: 'The go-to guide for new contributors at CNCF - ORAS',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
